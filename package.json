@@ -2,7 +2,7 @@
   "name": "css-resetter",
   "version": "1.2.0",
   "description": "Because we don't want to use the default browser styles...",
-  "main": "reset.css",
+  "main": "reset.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

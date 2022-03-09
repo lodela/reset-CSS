@@ -4,17 +4,19 @@ CSS reset 2022.
 
 # CSS Resetter 2022
 
+_(last updated March 10th 2022)_
+
 A CSS Resetter style sheet, its a list of rules that 'reset' all of the default browser styles.
 
 ## Why?
 
-The Why
-This seems like a lot of work. Why would you want to do this?
+Reset styles seem like a lot of work, don't you?.
+Why would you want to do this by yourself?
 
-Two reasons:
+### Two reasons:
 
-This will save you a lot time and frustration when you are creating complicated layouts with CSS.
-You're the designer. You shouldn't let the browser makers decide how any part of your web pages will look.
+This will save you a **lot of time** and frustration when you are creating complicated layouts with CSS.
+You're the developer / designer. You shouldn't let the browser makers decide how any part of your web pages will look.
 
 [Download the Latest Version](https://raw.githubusercontent.com/elad2412/the-new-css-reset/main/css/reset.css)
 
