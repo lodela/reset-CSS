@@ -1,6 +1,6 @@
 {
   "name": "css-resetter",
-  "version": "1.2.0",
+  "version": "1.2.03",
   "description": "Because we don't want to use the default browser styles...",
   "main": "reset.min.css",
   "scripts": {

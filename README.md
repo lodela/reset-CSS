@@ -1,10 +1,8 @@
-# reset.css
-
-CSS reset 2022.
-
 # CSS Resetter 2022
 
 _(last updated March 10th 2022)_
+
+> _Special thanks to CSS guru Eric Meyer who inspired me to do this work._
 
 A CSS Resetter style sheet, its a list of rules that 'reset' all of the default browser styles.
 
@@ -18,35 +16,32 @@ Why would you want to do this by yourself?
 This will save you a **lot of time** and frustration when you are creating complicated layouts with CSS.
 You're the developer / designer. You shouldn't let the browser makers decide how any part of your web pages will look.
 
-[Download the Latest Version](https://raw.githubusercontent.com/elad2412/the-new-css-reset/main/css/reset.css)
+### We reset the browser styles for two primary reasons:
 
-## NPM and How to Use?
+- Not all browsers apply the same default rules. They may be similar, but not exact. It can be difficult to provide the same designs in each browser if the basic styles are different.
+- Once you start designing and coding all of the fine details of your site, you may discover that a lot of what you are doing is simply overriding default browser styles. The reset does this quickly so that you don't have to.
 
-The package name on NPM is 'the-new-css-reset'.
+[Download the Latest Version](https://raw.githubusercontent.com/lodela/reset-CSS/main/reset.min.css)
 
-Import `/css/reset.css` before the regular styles of the project.
+## How to install it with NPM
 
-In a React project, insert it to the main entry file:
+The package name on NPM is 'css-resetter'.
+
+React, Vue, or Angular project, import it to the main entry file prior to your tailored CSS stylesheet:
 
 ```js
-import "the-new-css-reset/css/reset.css";
+import "css-resetter";
 ```
 
-## Accessibility Recommendation
+## Copy and Paste Into Your Own Style Sheet
 
-To keep your website accessibly, don't forget to take care of the `:focus` states.
+css-resetter [click here](https://raw.githubusercontent.com/lodela/reset-CSS/main/reset.min.css) to copy and paste
 
-```css
-:focus {
-  /* focus styles */
-}
+You can also simply copy all of the rules from the reset style sheet and paste them into your own. Make sure that you put them at the top so that they don't override any of your rules.
 
-/* or/and */
+If you use this method, be sure to clearly mark the reset section of the style sheet and give credit to the author using CSS comments. While the author has made this style sheet available for everyone to use, this isn't your work, so don't pretend like it is.
 
-:focus-visible {
-  /* keyboard only focus styles */
-}
-```
+> Remember, the CSS Reset style sheet should always go first.
 
 ## Browser Support
 
