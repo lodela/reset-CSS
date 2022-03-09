@@ -1,0 +1,27 @@
+{
+  "name": "reset_css",
+  "version": "1.2.0",
+  "description": "Because we don't want to use the default styles from the browser...",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodela/reset_CSS.git"
+  },
+  "keywords": [
+    "CSS reset",
+    "reset",
+    "resetcss",
+    "styles",
+    "style reset",
+    "css"
+  ],
+  "author": "Norberto Lodela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lodela/reset_CSS/issues"
+  },
+  "homepage": "https://github.com/lodela/reset_CSS#readme"
+}
