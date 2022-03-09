@@ -8,8 +8,13 @@ A CSS Resetter style sheet, its a list of rules that 'reset' all of the default 
 
 ## Why?
 
-The Why
-This seems like a lot of work. Why would you want to do this?
+Reset styles seem like a lot of work, don't you?.
+Why would you want to do this?
+
+Two reasons:
+
+This will save you a **lot of time** and frustration when you are creating complicated layouts with CSS.
+You're the designer. You shouldn't let the browser makers decide how any part of your web pages will look.
 
 Two reasons:
 
