@@ -4,7 +4,7 @@ _(last updated March 10th 2022)_
 
 > _Special thanks to CSS guru Eric Meyer who inspired me to do this work._
 
-A CSS Resetter style sheet, its a list of rules that 'reset' all of the default browser styles.
+A CSS Resetter style sheet is a list of rules that 'resets' all of the default browser styles.
 
 ## Why?
 
