@@ -25,7 +25,13 @@ You're the developer / designer. You shouldn't let the browser makers decide how
 
 ## How to install it with NPM
 
+```
+npm install --save css-resetter
+```
+
 The package name on NPM is 'css-resetter'.
+
+## USAGE. Import resetter
 
 React, Vue, or Angular project, import it to the main entry file prior to your tailored CSS stylesheet:
 
